@@ -1,0 +1,15 @@
+{
+	"name": "berry-syntax",
+	"theme": "syntax",
+	"version": "1.0.0",
+	"description": "Just another fruity theme..",
+	"keywords": [
+		"syntax",
+		"theme"
+	],
+	"repository": "https://gitlab.com/mpt0/atom-berry-syntax",
+	"license": "MIT",
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	}
+}
